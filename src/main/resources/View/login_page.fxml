@@ -10,7 +10,7 @@
 <?import javafx.scene.shape.QuadCurve?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="555.0" prefWidth="515.0" style="-fx-background-color: #ccff33;" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.loginPageController">
+<AnchorPane prefHeight="555.0" prefWidth="515.0" style="-fx-background-color: #ccff33;" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.login.LoginPageController">
    <children>
       <Label alignment="TOP_LEFT" layoutX="89.0" layoutY="247.0" prefHeight="30.0" prefWidth="96.0" text="User name" textAlignment="RIGHT" wrapText="true">
          <font>
